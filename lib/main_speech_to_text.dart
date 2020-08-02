@@ -1,9 +1,9 @@
 /* 
-Uses this project uses this example:
+This example uses this project:
 https://github.com/MarcusNg/flutter_voice
 https://www.youtube.com/watch?v=wDWoD1AaLu8 
 
-Uses this library:
+Uses this package:
 https://pub.dev/packages/speech_to_text
 
 (see documentation for dependencies to be added and customizations in android and iOS)

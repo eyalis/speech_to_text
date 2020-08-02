@@ -2,7 +2,7 @@
 This example uses this project 
 https://github.com/KadriyeMacit/Flutter-Examples/tree/master/speech_to_text
 
-And it uses this library 
+And it uses this package
 https://pub.dev/packages/speech_recognition
 
 (see documentation for dependencies to be added and customizations in android and iOS)
